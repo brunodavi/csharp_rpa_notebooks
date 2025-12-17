@@ -1,2 +1,4 @@
 *.ipynb
+*.exe
+
 !selenium_startup.ipynb
