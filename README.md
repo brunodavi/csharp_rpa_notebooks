@@ -1,5 +1,9 @@
 # C# RPA Notebooks
 
+## Demo 🔥
+
+https://github.com/user-attachments/assets/07f76f14-5d61-4b65-83c8-ce49f61b4c2b
+
 Este repositório contém notebooks interativos em C# (.NET Interactive / Polyglot Notebooks) focados em **RPA (Robotic Process Automation)** e **Testes Dinâmicos**.
 
 O objetivo principal é fornecer um ambiente de "start rápido" onde o navegador permanece aberto e controlado em tempo real, permitindo desenvolver scripts de automação passo a passo, testar seletores e validar fluxos sem a necessidade de recompilar um projeto de console a cada alteração.
