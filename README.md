@@ -22,7 +22,7 @@ Para rodar os notebooks deste projeto, você precisará de:
 
 1. **[VS Code](https://code.visualstudio.com/)**
 2. **[.NET SDK](https://dotnet.microsoft.com/download)** (Versão 6.0 ou superior recomendada)
-3. **Extensão [Polyglot Notebooks**](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode) para VS Code.
+3. **Extensão [Polyglot Notebooks](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode)** para VS Code.
 
 ## 📂 Estrutura e Fluxo de Trabalho
 
