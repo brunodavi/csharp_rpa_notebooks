@@ -1,4 +1,5 @@
 *.ipynb
 *.exe
 
+!puppeteer_startup.ipynb
 !selenium_startup.ipynb
