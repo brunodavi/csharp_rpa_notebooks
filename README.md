@@ -45,6 +45,8 @@ O arquivo `.gitignore` está configurado para permitir que você crie dezenas de
 # EXCETO o notebook de inicialização/template
 !selenium_startup.ipynb
 
+# Outras possíveis bibliotecas de RPA
+!<rpa_lib>_startup.ipynb
 ```
 
 ## ⚡ Como Usar
@@ -85,7 +87,7 @@ Console.WriteLine(itens.ToJsonString());
 
 A ideia é expandir este repositório conforme a necessidade surgir, adicionando templates para outras bibliotecas de automação modernas:
 
-* [ ] Template para **Puppeteer Sharp**
+* [x] Template para **Puppeteer Sharp**
 * [ ] Template para **Playwright for .NET**
 
 ## 🤝 Contribuição
